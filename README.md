@@ -1,2 +1,2 @@
 # CostumGPT3
-It is and AI Page created by using ReactJs and Tailwind
+An AI-driven webpage created using React.js and Tailwind CSS. This project leverages advanced web development techniques to deliver an interactive and visually appealing user experience.
