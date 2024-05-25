@@ -15,10 +15,10 @@ const Navbar = () => {
       <div className=' md:flex justify-start items-start ml-2 nav_center hidden md:w-[60%] lg:w-[70%]'>
         <ul className=' flex justify-start items-start flex-row text-white text-sm md:text-lg'>
           <li className=' m-2 lg:m-4 '><a href="#home">Home</a></li>
-          <li className=' m-2 lg:m-4'><a href="">What is GPT3</a></li>
-          <li className=' m-2 lg:m-4'><a href="">Open Ai</a></li>
-          <li className=' m-2 lg:m-4'><a href="">Case Study</a></li>
-          <li className=' m-2 lg:m-4'><a href="">Library</a></li>
+          <li className=' m-2 lg:m-4'><a href="#what">What is GPT3</a></li>
+          <li className=' m-2 lg:m-4'><a href="#open">Open Ai</a></li>
+          <li className=' m-2 lg:m-4'><a href="#case">Case Study</a></li>
+          <li className=' m-2 lg:m-4'><a href="#library">Library</a></li>
         </ul>
       </div>
       <div className='md:flex justify-end items-center md:w-[20%] hidden'>
